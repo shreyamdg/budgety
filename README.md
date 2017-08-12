@@ -1,5 +1,7 @@
 # budgety
 
+![](./cover.png)
+
 # README #
 
 ### What is this repository for? ###
